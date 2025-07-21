@@ -1,0 +1,51 @@
+Supplier Name,Energy Type,Region,Country,Contact,Website,Rating (1-5)
+Longi,Solar,UAE,South Africa,contact@longi.com,https://www.longi.com,5
+Aiko,Storage,South Africa,China,contact@aiko.com,https://www.aiko.com,5
+Jinko,Solar,China,Netherlands,contact@jinko.com,https://www.jinko.com,4
+Trina,Solar,Netherlands,Germany,contact@trina.com,https://www.trina.com,4
+CATL,Solar,UAE,Australia,contact@catl.com,https://www.catl.com,4
+Ampace,Storage,USA,Australia,contact@ampace.com,https://www.ampace.com,4
+AlphaESS,Storage,India,France,contact@alphaess.com,https://www.alphaess.com,4
+FoxESS,Hybrid,UAE,Netherlands,contact@foxess.com,https://www.foxess.com,5
+Growatt,Inverter,South Africa,Australia,contact@growatt.com,https://www.growatt.com,4
+Deye,Storage,USA,France,contact@deye.com,https://www.deye.com,4
+SolarX,EV,France,Australia,contact@solarx.com,https://www.solarx.com,4
+Anker,Hybrid,USA,Singapore,contact@anker.com,https://www.anker.com,5
+Resun Solar,Inverter,South Africa,Australia,contact@resunsolar.com,https://www.resunsolar.com,5
+Sungrow,Storage,UAE,UAE,contact@sungrow.com,https://www.sungrow.com,4
+BYD,Solar,France,Germany,contact@byd.com,https://www.byd.com,5
+JA Solar,Inverter,Netherlands,India,contact@jasolar.com,https://www.jasolar.com,4
+Canadian Solar,EV,UAE,Netherlands,contact@canadiansolar.com,https://www.canadiansolar.com,5
+GoodWe,EV,Australia,South Africa,contact@goodwe.com,https://www.goodwe.com,4
+Seraphim,EV,UAE,Australia,contact@seraphim.com,https://www.seraphim.com,4
+Huawei,Hybrid,Germany,South Africa,contact@huawei.com,https://www.huawei.com,5
+EnergyTech 0,Wind,Europe,USA,contact@energytech0.com,https://www.energytech0.com,3
+EnergyTech 1,Geothermal,North America,Germany,contact@energytech1.com,https://www.energytech1.com,5
+EnergyTech 2,Wind,APAC,Kenya,contact@energytech2.com,https://www.energytech2.com,4
+EnergyTech 3,Wind,Europe,Germany,contact@energytech3.com,https://www.energytech3.com,5
+EnergyTech 4,Hydropower,Europe,USA,contact@energytech4.com,https://www.energytech4.com,3
+EnergyTech 5,Wind,Africa,USA,contact@energytech5.com,https://www.energytech5.com,4
+EnergyTech 6,Wind,North America,India,contact@energytech6.com,https://www.energytech6.com,3
+EnergyTech 7,Wind,APAC,Germany,contact@energytech7.com,https://www.energytech7.com,4
+EnergyTech 8,Wind,Africa,Kenya,contact@energytech8.com,https://www.energytech8.com,3
+EnergyTech 9,Geothermal,APAC,USA,contact@energytech9.com,https://www.energytech9.com,4
+EnergyTech 10,Wind,Europe,Kenya,contact@energytech10.com,https://www.energytech10.com,5
+EnergyTech 11,Hydropower,Africa,USA,contact@energytech11.com,https://www.energytech11.com,3
+EnergyTech 12,Wind,Africa,India,contact@energytech12.com,https://www.energytech12.com,4
+EnergyTech 13,Wind,Africa,China,contact@energytech13.com,https://www.energytech13.com,5
+EnergyTech 14,Hydropower,North America,China,contact@energytech14.com,https://www.energytech14.com,4
+EnergyTech 15,Hydropower,APAC,Kenya,contact@energytech15.com,https://www.energytech15.com,4
+EnergyTech 16,Wind,APAC,USA,contact@energytech16.com,https://www.energytech16.com,3
+EnergyTech 17,Geothermal,North America,Kenya,contact@energytech17.com,https://www.energytech17.com,5
+EnergyTech 18,Hydropower,Europe,USA,contact@energytech18.com,https://www.energytech18.com,5
+EnergyTech 19,Geothermal,Africa,Germany,contact@energytech19.com,https://www.energytech19.com,4
+EnergyTech 20,Hydropower,North America,India,contact@energytech20.com,https://www.energytech20.com,5
+EnergyTech 21,Wind,APAC,Kenya,contact@energytech21.com,https://www.energytech21.com,3
+EnergyTech 22,Wind,North America,Germany,contact@energytech22.com,https://www.energytech22.com,4
+EnergyTech 23,Wind,Europe,Germany,contact@energytech23.com,https://www.energytech23.com,4
+EnergyTech 24,Geothermal,Europe,India,contact@energytech24.com,https://www.energytech24.com,4
+EnergyTech 25,Geothermal,APAC,Kenya,contact@energytech25.com,https://www.energytech25.com,5
+EnergyTech 26,Wind,North America,Germany,contact@energytech26.com,https://www.energytech26.com,5
+EnergyTech 27,Hydropower,Europe,Germany,contact@energytech27.com,https://www.energytech27.com,3
+EnergyTech 28,Geothermal,North America,Kenya,contact@energytech28.com,https://www.energytech28.com,3
+EnergyTech 29,Wind,Africa,China,contact@energytech29.com,https://www.energytech29.com,3
