@@ -1,0 +1,85 @@
+Updated_Products_v2
+Product Name,Application Type,Supplier,Key Specs,Key Features,Reference Link
+"Eddi, Zappi, Hub",Smart Home Control Solutions,myEnergi,"Solar surplus diverter, smart EV charging, WiFi monitoring","Maximize solar self-use, dynamic load management, remote control",https://myenergi.com/
+Shelly Plus Plug,Smart Home Control Solutions,Shelly,"Smart WiFi relays, plugs, meters, local & cloud control","Flexible device-level control, open integrations, energy automation",https://kb.shelly.cloud/knowledge-base/shelly-plus-plug-s
+Emporia Vue 2 Energy Monitor,Smart Home Control Solutions,Emporia,Real-time whole-home energy monitoring + circuit-level view,"Affordable full home monitoring, solar tracking, app notifications",https://www.emporiaenergy.com/
+Sense Home Energy Monitor,Smart Home Control Solutions,Sense,AI-powered device detection and energy insights,"Appliance-level tracking without extra hardware, insights for savings",https://sense.com/
+SolarEdge Home Hub + Smart Energy Devices,Smart Home Control Solutions,SolarEdge,"Inverter-linked smart plugs, EV charger, load control","Fully integrated solar/battery/load optimization, Utility ESS interaction",https://www.solaredge.com/en/products/residential/pv-inverters/solaredge-home-hub-inverters
+Wiser Energy System,Smart Home Control Solutions,Schneider Electric (Wiser),"Smart monitoring, load management, app integration","User-friendly interface, supports time-of-use tariff shifting",https://www.se.com/sg/en/product-range/62107-wiser-energy/#products
+Tesla Megapack,C&I ESS &  Energy Storage,Tesla,"Up to 3.9MWh per unit, scalable to 1GWh+, integrated inverter","Turnkey Utility ESS-scale BESS, rapid deployment, remote monitoring",https://www.tesla.com/megapack
+Sungrow ST500CP + PowerTitan,C&I ESS &  Energy Storage,Sungrow,"250kW+ inverter, modular 100kWh–2MWh LFP battery","High voltage design, C&I ESS &  optimized, EMS and VPP integration",https://en.sungrowpower.com/productDetail/3622
+Huawei Smart String ESS (LUNA2000-C/I),C&I ESS &  Energy Storage,Huawei,"100–200kWh modular battery, integrated inverter, cloud platform","Integrated solar + storage management, smart diagnostics",https://solar.huawei.com/en/products/C&I ESS-ess
+SMA Sunny Central Storage,C&I ESS &  Energy Storage,SMA,"1,000V/1,500V DC, 1MW+ rated power, grid-forming capable","Flexible control strategies, black start capable, grid service ready",https://www.sma.de/en/products/solarinverters/sunny-central-storage-up-to-3450-kw.html
+BYD Battery-Box C&I ESS C240,C&I ESS &  Energy Storage,BYD,"LFP-based, scalable up to several MWh, cabinet-based","High reliability, grid-connected, designed for long life",https://www.bydbatterybox.com/our-products/C&I ESS/
+Fluence Gridstack,C&I ESS &  Energy Storage,Fluence,"Grid-scale modular platform, MW to 100+ MW, AI-based optimization","Real-time optimization, configurable applications, AI-enhanced",https://fluenceenergy.com/platforms/gridstack/
+Tesla Powerwall,Residential ESS,Tesla,"13.5kWh capacity 
+- Full home backup 
+- 10-year warranty","13.5kWh battery, full home backup, mobile app, scalable, time-based control",https://www.tesla.com/powerwall
+Sungrow Hybrid Inverter + SBR Battery,Residential ESS,Sungrow,"- Modular battery (3–25kWh) 
+- Seamless outage switchover","Modular 3–25kWh battery, seamless switchover during outage, smart meter support",https://en.sungrowpower.com/productDetail/2157
+Enphase IQ Battery + IQ8 Microinverters,Residential ESS,Enphase,"- Modular battery (3.5kWh per unit) 
+- Microinverter system","Microinverter system, modular battery, app-based energy monitoring, rapid shutdown",https://enphase.com/en-us/products-and-services/storage
+Huawei Luna2000 + SUN2000 Hybrid Inverter,Residential ESS,Huawei,"- Modular battery (5–30kWh) 
+- Hybrid inverter with backup mode","Smart PV optimizers, modular 5–30kWh battery, hybrid inverter with backup mode",https://solar.huawei.com/eu/products/residential/luna2000
+GoodWe EH Series + Lynx Battery,Residential ESS,GoodWe,"- Flexible battery sizing 
+- Integrated backup","Integrated backup, flexible battery sizing, smart home integration",https://en.goodwe.com/product/Residential-Energy-Storage-Solutions.html
+SolarEdge Energy Bank + Home Hub Inverter,Residential ESS,SolarEdge,"- DC-coupled battery 
+- Panel-level optimizers","EV charging, DC-coupled battery, panel optimizers, app and remote diagnostics",https://www.solaredge.com/us/products/energy-storage/energy-bank
+Fronius GEN24 Plus + BYD Battery-Box,Residential ESS,Fronius,"- High-efficiency hybrid inverter 
+- Compatible with BYD HV batteries","Hybrid inverter, high efficiency, smart load control, compatible with BYD HV batteries",https://www.fronius.com/en/solar-energy/installers-partners/technical-data/all-products/inverters/symo-gen24-plus
+Hoymiles HMS-800 Microinverter Kit,Portable Power Storage,Hoymiles,"- Plug-in microinverter 
+- EU Schuko plug","Plug-in microinverter, app monitoring, EU Schuko plug",https://www.hoymiles.com/products/microinverter/hms-series/hms-800/
+Zendure SolarFlow Balcony System,Portable Power Storage,Zendure,"- Plug-and-play solar + battery 
+- Modular design","Plug & play solar + optional battery, modular, app tracking",https://zendure.com/pages/solarflow-balcony-energy-storage-system
+Sunology PLAY,Portable Power Storage,Sunology,"- Pre-mounted kit 
+- Aesthetic design","Pre-mounted kit, easiest install, aesthetic design",https://sunology.eu/products/play
+Deye SUN600G3-EU-230,Portable Power Storage,Deye,"- Flexible microinverter 
+- Balcony kit compatible","Flexible microinverter setup, compatible with balcony kits",https://deyeinverter.com/product/sun-600g3-eu-230/
+Anker Solix Balcony Solution,Portable Power Storage,Anker Solix,"- Scalable modules 
+- Trusted brand reliability","Smart app monitoring, scalable modules, trusted Anker brand",https://www.anker.com/anker-solix
+Hi-MO 7 (N-Type TOPCon),"Utility Solar, C&I Solar",LONGi,"580-605W, 22.8% efficiency","High bifaciality (80%), low LID",LONGi
+Vertex S+ (N-Type),"Residential Solar, C&I Solar",Trina Solar,"410-430W, 22.3% efficiency","Lightweight, rooftop-optimized",Trina Solar
+DeepBlue 4.0 (N-Type),"Utility Solar, C&I Solar",JA Solar,"625W, 22.8% efficiency",Low temp coefficient (-0.29%/°C),JA Solar
+Tiger Neo (N-Type),"Utility Solar, C&I Solar",Jinko Solar,"620W, 22.3% efficiency",High power density,Jinko Solar
+Hyper-ion (HJT),Utility Solar,Risen Energy,"700W+, 23.2% efficiency","Zero busbar, thin wafer",Risen
+N-Type TOPCon,C&I Solar & Utility Solar,DAS Solar,"580-610W, 22.5% efficiency","Anti-PID, anti-lepidolite",DAS Solar
+Solar Modules,"Utility Solar, Agricultural Solar",Tongwei,"550W+, 21.8% efficiency",PV + aquaculture integration,Tongwei
+Himalaya G12 (HJT),"Utility Solar, Large-scale Solar",HUASUN,"720W+, 23.5% efficiency","Silver-free, low-carbon",HUASUN
+G12 (210mm),"Utility Solar, C&I Solar",TCL Zhonghuan,"670W+, 22.8% efficiency",Ultra-large wafer,TCL Zhonghuan
+STP Series (N-Type),C&I Solar & Utility Solar,SUNTECH,"550-670W, 22.3% efficiency","Anti-dust, salt-resistant",SUNTECH
+PANDA Series,"Residential Solar, C&I Solar",Yingli Solar,"550W, 21.8% efficiency","Bifacial, anti-reflective",Yingli
+PERC & TOPCon,Residential Solar C&I Solar,EGing,"550W+, 21.5% efficiency",Fire-resistant,EGing
+Monocrystalline,C&I Solar & Utility Solar,Solargiga,"400-550W, 21.2% efficiency",Low-light performance,Solargiga
+Black Series,"Residential Solar, C&I Solar",AE Solar,"550W+, 21.5% efficiency",All-black design,AE Solar
+MY Solar Modules,Utility Solar,Mingyang,"550W+, 21.8% efficiency",Wind + storage hybrid,Mingyang
+HJT Modules,"Utility Solar, Large-scale Solar",SHANGHAI Electric,"700W+, 23% efficiency",High bifaciality,Shanghai Electric
+AIKO-A Series (ABC Modules),"Residential Solar, C&I Solar",Aiko Solar,"410-620W, 24.0%+ efficiency","- All Back Contact (no front grid) 
+- Zero LID, low temp coefficient (-0.29%/°C) 
+- Aesthetic all-black design",https://www.aikosolar.com/
+AIKO-N Series (N-Type TOPCon),C&I Solar & Utility Solar,Aiko Solar,"550-700W, 22.8% efficiency",- High bifaciality (80%),https://www.aikosolar.com/
+Battery: Blade Battery (LFP),Residential ESS C&I ESS & Utility ESS,BYD,"3.2V, 100-320Ah, 6,000+ cycles @80% DoD",Ultra-safe (nail penetration test passed),BYD Battery
+Battery: EnerC (LFP),"Utility ESS-scale, C&I ESS & ",CATL,"280Ah, 6.25MWh/20' container, 12,000 cycles","0% degradation in first 1,000 cycles",CATL
+"Inverter: SG350HX, PCS: PowerTitan 2.0","Utility ESS, C&I ESS",Sungrow,"350kW inverter, 2.5MWh container (C&I ESS & )","99% efficiency, grid-forming capability",Sungrow
+Battery: DL5.1 (LFP),Residential ESS SMB,Dyness,"5.12kWh, 100Ah, 6,000 cycles","Stackable, 15-year warranty",Dyness
+"Inverter: SPH6000, Battery: AXE LV",Residential ESS C&I ESS,Growatt,"6kW hybrid, 5.8kWh battery (stackable to 69.6kWh)","AI energy management, 10ms switch time",Growatt
+"Inverter: ET Series, Battery: Lynx Home",Residential ESS C&I ESS & ,GoodWe,"10kW hybrid, 5kWh battery (up to 200kWh)","98.6% efficiency, modular design",GoodWe
+Battery: H1 (LFP),Residential,Fox ESS,"4.8kWh, 100Ah, 6,000 cycles",Low-temp charging (-20°C),Fox ESS
+"Inverter: SUN2000, Battery: LUNA2000",Residential ESS C&I ESS,Huawei,"15kW hybrid, 5kWh battery (up to 30kWh)","Smart PV coupling, 99% efficiency",Huawei Solar
+Battery: 300Ah LFP,"Utility ESS, C&I ESS & ",Hithium,"300Ah, 20' container (5MWh), 10,000 cycles","Ultra-long lifespan, low degradation",Hithium
+Battery: 210Ah LFP,C&I ESS & Utility ESS,Gotion High-tech,"210Ah, 1C discharge, 8,000 cycles",Compatible with 1500V systems,Gotion
+PCS: iStoragE Series,"Utility ESS, Microgrid",Kehua,"100-1500V, 100kW-3MW, 98.5% efficiency","Black start, virtual synchronous generator",Kehua
+PCS: EP-2500-HA,"Utility ESS, ",Sineng,"2.5MW, 1500V, C5 corrosion resistance","IP65 protection, 99% efficiency",Sineng
+Battery: LFP for Rail + ESS,", Utility ESS",CRRC,"280Ah, 4MWh container, -30°C operation",Integrated with rail energy recovery,CRRC
+Battery: PowerStar (LFP),"Telecom, UPS, Renewable",Narada,"50Ah-1000Ah, 10,000 cycles @90% DoD",High-temperature tolerance (60°C),Narada
+Battery: 280Ah LFP,"C&I ESS & , Utility ESS",EVE Energy,"280Ah, 0.5C continuous discharge",UL1973 certified,EVE
+Integrated ESS: SIGEN Stack,Residential ESS SMB,Sigenergy,"5-30kW, 5kWh modules, 6,000 cycles","Plug-and-play, 10-minute installation",Sigenergy
+Hybrid Inverter: SUN-8K-SG01LP1,Residential ESS C&I ESS,Deye,"8kW, 48V, 98% efficiency",Supports parallel connection (up to 12 units),Deye
+Battery: X-Cabinet (LFP),Residential ESS C&I ESS & ,Solax,"6.14kWh, 100Ah, 6,000 cycles","IP55, 10-year warranty",Solax
+"Battery: SMILE5, Inverter: HHV",Residential ESS C&I ESS,AlphaESS,"- SMILE5: 4.8kWh (LFP), 6,000 cycles, 90% DoD 
+- HHV Inverter: 3.6-10kW, 97.5% efficiency","- Modular stackable design 
+- AI energy management 
+- 10-year warranty",AlphaESS
+"Battery: HP-ESS, PCS: HYP5000",Residential ESS Off-grid,Hypontech,"- HP-ESS: 5.12kWh (LFP), 100Ah, 6,500 cycles 
+- HYP5000 PCS: 5kW, 48V, 98% efficiency","- All-in-one design 
+- Off-grid/grid-tied hybrid 
+- Low-temp charging (-20°C)",Hypontech
